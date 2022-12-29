@@ -1,6 +1,4 @@
 # pastcampus-python-
 
 ## Spring
-* pastcampus_python
-
-  - [past campus python](https://github.com/Kuminchang/pastcampus-python-)
+* [pastcampus_python](https://github.com/Kuminchang/pastcampus-python-)
